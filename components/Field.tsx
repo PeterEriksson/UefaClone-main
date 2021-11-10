@@ -13,6 +13,8 @@ import Player from "./Player";
   GK: ["Olsen"],
 }; */
 
+//hejej ehej jee hejej
+
 const Field = () => {
   const players = useRecoilValue(myPlayersByPosition);
 
